@@ -5,7 +5,7 @@ public class AnalisandoCandidatos {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Seja vem vindo a entrevista");
+        System.out.println("Seja bem vindo a entrevista");
         System.out.println("digite o salário pretendido: ");
 
         double salario = sc.nextDouble();
